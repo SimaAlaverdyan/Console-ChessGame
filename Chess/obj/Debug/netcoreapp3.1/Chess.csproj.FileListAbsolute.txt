@@ -1,0 +1,12 @@
+/Users/sima/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.deps.json
+/Users/sima/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.runtimeconfig.json
+/Users/sima/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.runtimeconfig.dev.json
+/Users/sima/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.dll
+/Users/sima/Projects/Chess/Chess/bin/Debug/netcoreapp3.1/Chess.pdb
+/Users/sima/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.csprojAssemblyReference.cache
+/Users/sima/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.AssemblyInfoInputs.cache
+/Users/sima/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.AssemblyInfo.cs
+/Users/sima/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.csproj.CoreCompileInputs.cache
+/Users/sima/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.dll
+/Users/sima/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.pdb
+/Users/sima/Projects/Chess/Chess/obj/Debug/netcoreapp3.1/Chess.genruntimeconfig.cache
